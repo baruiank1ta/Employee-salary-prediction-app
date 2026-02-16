@@ -9,39 +9,43 @@ This project uses the Adult Income dataset to build and compare multiple classif
 
 Users can input:
 
-Age
-Education Level
-Occupation
-Hours per week
+- Age
+
+- Education Level
+
+- Occupation
+
+- Hours per week
 
 and instantly receive a prediction with confidence score.
 
 🧠 Machine Learning Workflow
+
 1️⃣ Data Preprocessing
 
-*Handled missing values
+* Handled missing values
 
-*Encoded categorical variables
+* Encoded categorical variables
 
-*Label encoding for occupation
+* Label encoding for occupation
 
-*Feature selection
+* Feature selection
 
-*Train-test split
+* Train-test split
 
 2️⃣ Models Compared
 
-*Logistic Regression
+* Logistic Regression
 
-*Random Forest
+* Random Forest
 
-*Support Vector Machine (SVM)
+* Support Vector Machine (SVM)
 
-*K-Nearest Neighbors (KNN)
+* K-Nearest Neighbors (KNN)
 
-*Gradient Boosting
+* Gradient Boosting
 
-*Neural Network (Keras + SciKeras)
+* Neural Network (Keras + SciKeras)
 
 🏆 Best Model
 
@@ -63,58 +67,58 @@ Class 1 (>50K): ~30%
 
 Evaluation included:
 
-*Confusion Matrix
+* Confusion Matrix
 
-*Precision & Recall
+* Precision & Recall
 
-*F1-score
+* F1-score
 
 
 🛠 Tech Stack
 
-*Python
+* Python
 
-*Pandas
+* Pandas
 
-*NumPy
+* NumPy
 
-*Scikit-learn
+* Scikit-learn
 
-*Gradient Boosting
+* Gradient Boosting
 
-*SciKeras
+* SciKeras
 
-*TensorFlow (for Neural Network experiments)
+* TensorFlow (for Neural Network experiments)
 
-*Streamlit
+* Streamlit
 
-*Pickle
+* Pickle
 
 ✨ Features
 
-*Clean interactive UI
+* Clean interactive UI
 
-*Real-time prediction
+* Real-time prediction
 
-*Confidence percentage display
+* Confidence percentage display
 
-*End-to-end ML pipeline
+* End-to-end ML pipeline
 
-*Live deployed application
+* Live deployed application
 
 📌 Key Learnings
 
-*Model comparison & evaluation
+* Model comparison & evaluation
 
-*Handling class imbalance
+* Handling class imbalance
 
-*Model serialization
+* Model serialization
 
-*Building ML-powered web apps
+* Building ML-powered web apps
 
-*Deployment using Streamlit Cloud
+* Deployment using Streamlit Cloud
 
-*Structuring production-ready ML projects
+* Structuring production-ready ML projects
 
 
 🔗 Live Demo: [https://your-app-name.streamlit.app](https://salarypredict-yabsk32qcx8aheohzrvpjo.streamlit.app)
