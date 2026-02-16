@@ -1,4 +1,4 @@
-💼**Employee Salary Prediction App**
+#💼Employee Salary Prediction App
 
 A Machine Learning web application that predicts whether an individual's income is:<=50K or >50K, based on demographic and employment-related features.
 This project demonstrates end-to-end ML workflow including data preprocessing, model comparison, evaluation, serialization, and deployment.
